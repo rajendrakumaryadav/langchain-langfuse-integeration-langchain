@@ -1,0 +1,11 @@
+.venv
+.ropeproject
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+*.egg
+*.egg-info/
+*.dist-info/
+*.whl
